@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #00FFD1;
+}
+h1{
+    font-weight: bold;
+    font-size:  30px;
+}
+p{
+    font-size: 20px;
+}
+div{
+    margin: 150px 350px;
+    border: 15px solid;
+    border-color: red;
+    padding: 10px;
+    border-radius: 30px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
